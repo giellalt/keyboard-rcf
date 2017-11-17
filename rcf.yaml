@@ -1,0 +1,39 @@
+internalName: rcf_keyboards
+
+displayNames:
+  rcf: Réunion Creole French
+  en: Réunion Creole French
+
+locale: rcf
+
+supportedTargets: [ios, android]
+
+modes:
+  mobile-default: |
+    a k z o u l i p è é
+    y s d f v m n k t e 
+       x c h b j w g
+  mobile-shift: |
+    A K Z O U L I P É È
+    y S D F v M N K T E 
+       X C H B J W G
+
+longpress:
+  A: Á
+
+  a: á
+
+styles:
+  tablet:
+    actions:
+      backspace: [1, right, fill]
+      enter: [2, right, fill]
+      shift: [3, both, fill]
+  phone:
+    actions:
+      shift: [3, left, fill]
+      backspace: [3, right, fill]
+
+strings:
+  space: space
+  return: return
