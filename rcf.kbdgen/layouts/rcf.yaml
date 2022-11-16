@@ -1,24 +1,10 @@
 displayNames:
   rcf: Réunion Creole French
   en: Réunion Creole French
-modes:
-  mobile:
-    default: |
-      a k z o u l i p è é
-      y s d f v m n k t e 
-         x c h b j w g
-    shift: |
-      A K Z O U L I P É È
-      y S D F v M N K T E 
-         X C H B J W G
 longpress:
   A: Á
   a: á
-strings:
+keyNames:
   space: space
   return: return
-targets:
-  ios:
-    legacyName: rcf_keyboards
-  android:
-    legacyName: rcf_keyboards
+
