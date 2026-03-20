@@ -1,13 +1,7 @@
-# Keyboard layout(s) for Réunion Creole French
+---
+layout: default
+---
 
-**Legend:**
+# Keyboard layouts for Réunion Creole French
 
-| Mode       | Default | AltGr/Option | Caps Lock (Mode Switch) | Caps Lock + AltGr/Option |
-| ----------:|:-------:|:------------:|:-----------------------:|:------------------------:|
-|**Standard**| black   | red          | blue                    | purple                   |
-|**Deadkey** | green   | orange       | pink                    | green                    |
-
-
-# Keyboard Layouts
-
-No keyboard layout defined yet!
+> Tip: These keyboards are interactive — click or tap keys to explore different layers (Shift, Alt, etc.)
